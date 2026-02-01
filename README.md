@@ -11,5 +11,7 @@ Due on Wednesday February 4th at 12pm
 ### Project Overview
 ### Responsibilities, deliverables and dependencies
 ### Gannt Chart
+![Gantt Chart](GanntChart.png)
+
 ### Risk Register
 ### What does success of the project look like
