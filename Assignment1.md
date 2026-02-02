@@ -22,7 +22,7 @@ Modelling Approach???
 |  1 |Data Extraction & Filtering: Isolate Holyrood, Central, Lauriston, and New College room data and relevant event data|  Cleaned Data Set | None  |   
 |  2 |Model Formulation: Define hard constraints (no room clashes, curriculum conflicts) and soft constraints (travel time, room stability)| Optimisation Model  | T1  |
 |  3 |Implementation: Code the model using solver| Codebase  | T2  |
-|  4 | Scenario Testing: Run the solver specifically for the "Closure of Holyrood" scenario vs. the current baseline | Comparative Analysis  | T3  | 
+|  4 | Scenario Testing: Run the solver for the closure of holyrood scenario vs. the current baseline | Comparative Analysis  | T3  | 
 |  5 | Analysis & Evaluation: Assess the impact on travel constraints and space utilisation | Final Results  | T4  |   
 
 
