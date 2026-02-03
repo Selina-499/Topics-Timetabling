@@ -46,7 +46,7 @@ gantt
 
     section Key Deliverables
     Assignment 1 (Project Plan)      :milestone, m1, 2026-02-04, 0d
-    Assignment 2 (Revised Plan)      :milestone, m2, 2026-03-04, 0d
+    Assignment 2                     :milestone, m2, 2026-03-04, 0d
     Final Presentation               :milestone, m4, 2026-03-31, 0d
     Final Project Report             :milestone, m3, 2026-04-03, 0d
 ```
