@@ -1,0 +1,65 @@
+Campus From,Campus To,Travel time (mins)
+Bioquarter,Bioquarter,0
+Central,Bioquarter,60
+Easter Bush,Bioquarter,60
+Holyrood,Bioquarter,60
+King's Buildings,Bioquarter,60
+Lauriston,Bioquarter,60
+New College,Bioquarter,60
+Western General,Bioquarter,60
+Bioquarter,Central,60
+Central,Central,0
+Easter Bush,Central,60
+Holyrood,Central,10
+King's Buildings,Central,30
+Lauriston,Central,10
+New College,Central,10
+Western General,Central,60
+Bioquarter,Easter Bush,60
+Central,Easter Bush,60
+Easter Bush,Easter Bush,0
+Holyrood,Easter Bush,60
+King's Buildings,Easter Bush,60
+Lauriston,Easter Bush,60
+New College,Easter Bush,60
+Western General,Easter Bush,60
+Bioquarter,Holyrood,60
+Central,Holyrood,10
+Easter Bush,Holyrood,60
+Holyrood,Holyrood,0
+King's Buildings,Holyrood,30
+Lauriston,Holyrood,10
+New College,Holyrood,10
+Western General,Holyrood,60
+Bioquarter,King's Buildings,60
+Central,King's Buildings,30
+Easter Bush,King's Buildings,60
+Holyrood,King's Buildings,30
+King's Buildings,King's Buildings,0
+Lauriston,King's Buildings,30
+New College,King's Buildings,30
+Western General,King's Buildings,60
+Bioquarter,Lauriston,60
+Central,Lauriston,10
+Easter Bush,Lauriston,60
+Holyrood,Lauriston,10
+King's Buildings,Lauriston,30
+Lauriston,Lauriston,0
+New College,Lauriston,10
+Western General,Lauriston,60
+Bioquarter,New College,60
+Central,New College,10
+Easter Bush,New College,60
+Holyrood,New College,10
+King's Buildings,New College,30
+Lauriston,New College,10
+New College,New College,0
+Western General,New College,60
+Bioquarter,Western General,60
+Central,Western General,60
+Easter Bush,Western General,60
+Holyrood,Western General,60
+King's Buildings,Western General,60
+Lauriston,Western General,60
+New College,Western General,60
+Western General,Western General,0
