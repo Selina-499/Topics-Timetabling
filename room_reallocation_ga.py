@@ -39,6 +39,7 @@ PENALTIES = {
     'wed_fri_evening': 30,          # Penalty for Wednesday/Friday evening classes
     'long_duration': 2,             # Penalty per minute over max duration
     'max_duration': 120,            # Maximum preferred duration (minutes)
+    'max_duration': l,            # Maximum preferred duration (minutes)
     'commute_days': 8,              # Penalty per extra commute day for students
     'travel_minute': 1.0,           # Penalty per travel minute between events
     'impossible_travel': 50,        # Penalty for impossible travel between events
@@ -483,7 +484,11 @@ def make_greedy_initializer(events, rooms):
         rooms_by_campus[room.campus.lower()].append(idx)
     
     # Campus preference order (adjust based on your preferences)
+<<<<<<< HEAD
     campus_fallback_order = ["central", "lauriston", "new college", "holyrood", "kings buildings"]
+=======
+    campus_fallback_order = ["central", "lauriston", "new college", "holyrood"]
+>>>>>>> origin/Anja-Kely-patch-2
     
     def init():
         """Generate one initial solution."""
